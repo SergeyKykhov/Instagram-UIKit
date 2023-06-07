@@ -11,7 +11,7 @@
 
 ## Screenshots
 
-<img src="https://github.com/SergeyKykhov/Instagram-UIKit/blob/main/Screenshots/1.png" width="214" height="433"> <img src="https://github.com/SergeyKykhov/Instagram-UIKit/blob/main/Screenshots/2%20.png" width="214" height="433"> <img src="https://github.com/SergeyKykhov/Instagram-UIKit/blob/main/Screenshots/3%20.png" width="214" height="433"> <img src="https://github.com/SergeyKykhov/Instagram-UIKit/blob/main/Screenshots/4.png" width="214" height="433"> <img src="https://github.com/SergeyKykhov/Instagram-UIKit/blob/main/Screenshots/5.png" width="214" height="433">
+<img src="https://github.com/SergeyKykhov/Instagram-UIKit/blob/main/Screenshots/1.png" width="214" height="432"> <img src="https://github.com/SergeyKykhov/Instagram-UIKit/blob/main/Screenshots/2%20.png" width="214" height="432"> <img src="https://github.com/SergeyKykhov/Instagram-UIKit/blob/main/Screenshots/3%20.png" width="214" height="432"> <img src="https://github.com/SergeyKykhov/Instagram-UIKit/blob/main/Screenshots/4.png" width="214" height="432"> <img src="https://github.com/SergeyKykhov/Instagram-UIKit/blob/main/Screenshots/5.png" width="214" height="432">
 
 ## Setup
 - [x] For some regions, the endless tape will not work. Use a VPN
